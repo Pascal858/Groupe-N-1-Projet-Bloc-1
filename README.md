@@ -52,7 +52,7 @@ Développer une **page d’accueil complète** en HTML5 et CSS3, sans JavaScript
     └── logo/
 
 ## 📇 Nos différents membres.
-Chef/Cheffe du groupe: Aristote Léon E. HOUNTONDJI 
+Chef/Cheffe du groupe: Aristote Léon E. HOUNTONDJI. 
 
 1.Aristote Léon E. HOUNTONDJI (IA)
 2.Victoria Gloria TOVIHOUANDE (IA)
